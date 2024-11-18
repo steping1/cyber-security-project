@@ -1,9 +1,9 @@
 #  Midterm Project
-https://github.com/user-attachments/files/17792039/Midterm-Project.odt
+https://github.com/user-attachments/files/17797308/Midterm-project.odt
 
-[Midterm-Project.odt](https://github.com/user-attachments/files/17792039/Midterm-Project.odt)
-
+[Midterm-project.odt](https://github.com/user-attachments/files/17797308/Midterm-project.odt)
 # Group 4
+
 
 PİRAYE	ÇARSANCAKLI	220408009@st.biruni.edu.tr  Computer Engineering
 
