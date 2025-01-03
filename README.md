@@ -18,6 +18,8 @@ Modeling: Applied supervised and unsupervised learning for anomaly detection.
 Evaluation: Used metrics like ROC-AUC, Confusion Matrix, and cross-validation to assess performance.
 Visualization: Plotted anomalies, ROC curves, and class distributions.
 
+# Reports
+
 https://github.com/user-attachments/files/18270031/cybersecurity.pdf
 
 [cybersecurity.pdf](https://github.com/user-attachments/files/18270031/cybersecurity.pdf)
